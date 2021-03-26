@@ -1,1 +1,0 @@
-# Secant_Method
